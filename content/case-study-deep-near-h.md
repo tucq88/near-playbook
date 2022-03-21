@@ -162,7 +162,7 @@ The partnership with NEAR University allowed Luz Margarita to tap into resources
 Enrolling in the NEAR University Bootcamp, provided Luz the opportunity to learn how blockchain technology works, and how to use it on a daily basis. Luz gained a greater understanding  about the topic, and was able to create a strategy that could be adapted to promote a deep understanding of NEAR for all NEAR Hispano participants. Luz knew that barriers such as language and unclear pathways, could inhibit access to learning and hinder learner progress:
 
 > “ You cannot do a course from your level of knowledge, you must do it from a level of understanding in which the trainee is encouraged to advance and learn”
-> - Luz Margarita
+> Luz Margarita
 
 By combining her understanding of the models of education and user experience, Luz was better able to define an approach that would not simply translate content, but transfer knowledge in a meaningful and user specific way.
 
@@ -201,12 +201,12 @@ This approach allows students to become trainers capable of customizing and deli
 After the design of NEAR Hispano’s business model, the drafting of funding application, and course development, the first challenge encountered by the team was how to reach people, and communicate the value of their offer:
 
 > “One thing is to develop and run courses, and the other is to find individuals to sell these courses to. Day 0 is critical, and is the most challenging moment because you have to figure out how to attract people to your program and motivate them to participate.”
-> - Claudio
+> Claudio
 
 Finding a unique selling proposition (USP) requires a deep understanding of both the context in which you are going to promote your product, the value it delivers to its customers, and the ability to create a sense of urgency.
 
 > “How can you market your product to people? Literally, you make an offer “Hey, here is a cool opportunity, you have the chance to learn today, because in 18 months this learning opportunity will not be here anymore. Today is the time to get engaged, and reap the benefits of being there early. If you come today with your Web2 firm full of devs and get NEAR Certified, we might be able to put you on a project to work on”
-> - Claudio
+> Claudio
 
 Creating the first batch of NEAR educators is essential for sustaining your educational program. Without more educators joining your project will not be able to scale and reach full potential. As there is no right formula for attracting motivated individuals to your business, you might have to try out different strategies before finding the right one. After months since inception, NEAR Hispano is still adjusting its strategies for obtaining even better results, paying particular attention to its outreach campaigns and events.
 
@@ -230,7 +230,7 @@ When starting out your outreach campaign it is useful to start off with connecti
 The number one rule to win people’s trust is to be honest and crystal clear about your intentions and what interest parties will gain from your program.
 
 > “For me it’s always been about just putting people in the right places at the right time, it's just connecting the dots, that's what I do…I put value on the table and open up doors for people. I think that's first and foremost. The best way of earning people's trust in you, and earning people's trust in partnerships as well .”
-> - Claudio
+> Claudio
 
 While you need to make sure that you adapt your communication to the person in front of you, you also want to set clear expectations.You should be as detailed as possible in regards to  what the opportunities are, how funding works, and what they can expect once they finish the course.
 

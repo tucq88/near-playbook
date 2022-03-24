@@ -115,14 +115,14 @@ NEAR Hispano courses mirror those of NEAR University without noticeable technica
 ### Course Delivery
 NEAR Hispano’s courses are designed to promote the interaction between instructors and students. As courses contain new and dense technical content that can be difficult to absorb without the right support system in place, NEAR Hispano uses both synchronous and asynchronous spaces during the certification programs that are offered (NCD, NCA and NCP). The synchronous spaces take place on a daily basis and allow students to bring forward questions related to the course content, while the asynchronous spaces are maintained in the NEAR Hispano’s Discord server. Each course counts with their own Discord channels that offer an opportunity to share ideas and promote the interaction between students; they also offer an avenue to ask questions to instructors, certified developers and other experts involved with NEAR Hispano:
 
-![NEAR-H Courses on Discord](course-delivery.jpg)
+![NEAR-H Courses on Discord](assets/course-delivery.jpg)
 
 This approach proved to be successful as students benefited from the continuous support by NEAR Hispano to help them navigate the Web3 ecosystem.
 
 ### Asynchronous Approach and Agile Delivery
 The aforementioned daily sync sessions of the courses follow the concept of a daily stand-up, a ceremony commonly used in [Scrum](https://www.scrumalliance.org/about-scrum) (an Agile framework). These sessions are used to discuss progress at a high level and not to troubleshoot any problems. The goal is to understand how things are going, identify any roadblocks and next steps. This is achieved by asking students the following three questions:
 
-![Standup questions](standup.jpg)
+![Standup questions](assets/standup.jpg)
 
 - What did you accomplish since the last session?
 - What are you working on until the next meeting?

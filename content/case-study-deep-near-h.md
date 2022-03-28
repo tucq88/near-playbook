@@ -18,7 +18,7 @@ At a high level, the NEAR Hispano target audience are people in Spanish speaking
 
 In keeping with its mission to expand the reach of NEAR Protocol through education, NEAR Hispano focuses its efforts on attracting students and professors from universities in multiple LATAM countries.
 
-Critical to the growth of this initiative is to train community members that can then in turn, train newcomers to the ecosystem. As such, NEAR Hispano focuses on attracting and training professors. This model helps to grow the community and deliver the business objectives.
+ For this initiative to scale, it is critical to train community members that can train newcomers to the ecosystem. As such, NEAR Hispano focuses on attracting and training professors. Comment end  This model helps to grow the community and deliver the business objectives.
 
 ## The delivery:
 NEAR Hispano reaches its target audience by growing its community rather than by investing in marketing. Unlike a regular enterprise, NEAR Hispano focuses on building relationships with other groups and communities that can help them expand its reach. It works closely with other groups within NEAR Protocol like NEAR University, and its members participate in different activities to spread the word about NEAR Hispano. Many of its members are also successful entrepreneurs that help bring more people to the ecosystem.

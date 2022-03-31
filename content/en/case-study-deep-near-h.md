@@ -62,9 +62,9 @@ In the end, it is critical to ensure that value is generated and to measure it. 
 # 2. Funding Opportunities at NEAR
 There is a number of funding opportunities ([NEAR Grants](https://near.org/grants/)) at NEAR that enable community members to launch new projects and help grow the NEAR ecosystem. Not all funding opportunities and grants are the same or serve the same purpose. This is something that NEAR Hispano understands very well and uses to potentialize its program.
 
+The focus is not only on obtaining grants to fund the activities of NEAR Hispano, but mostly on helping community members obtain their own grants and further develop their Web3 careers. As such, NEAR Hispano mentors work closely with those who complete their [courses](#final-products). By understanding the particular needs of each person, NEAR Hispano mentors help individuals obtain grants that fit their projects and objectives well. One major entryway that NEAR Hispano promotes is helping people to enroll in one of [NEAR’S Education Fellowship programs](https://www.near.university/earn/fellowship):
 NEAR Hispano focuses on creating real use cases that demonstrate its value and justify its need for funding. Their first step when starting an educational program was to create a NEAR Guild. These [Guilds](https://near.org/guilds/), in large part, make up the NEAR ecosystem. They develop new projects and grow the community. Guilds are groups that share a common vision and mission; they are the social force behind the growth of NEAR Protocol. When NEAR Hispano created a Guild ([Start a Guild](https://near.org/start-a-guild/)), they received a small initial budget from NEAR Foundation to run its activities including creating content, organizing webinars and helping future students to set up their NEAR Wallet. Today, NEAR Hispano works closely with NEAR University to develop its educational content. This collaboration opens more doors for grants from NEAR University ([Near University Grants](https://www.near.university/earn/grants)).
 
-The focus is not only on obtaining grants to fund the activities of NEAR Hispano, but mostly on helping community members obtain their own grants and further develop their Web3 careers. As such, NEAR Hispano [mentors and works]() closely with those who complete their courses. By understanding the particular needs of each person, NEAR Hispano mentors help individuals obtain grants that fit their projects and objectives well. One major entryway that NEAR Hispano promotes is helping people to enroll in one of [NEAR’S Education Fellowship programs](https://www.near.university/earn/fellowship):
 - Entrepreneur in Residence,
 - Developer in Residence,
 - Designer in Residence,
@@ -109,7 +109,7 @@ Asking these questions allows NEAR Hispano to reflect both on success and areas 
 ## Recognize Existing Resources and Identify Learner Needs
 NEAR Hispano recognized an opportunity to make education more accessible by removing barriers to entry. Translating content into Spanish and creating a student-centered approach to instruction were identified as key success factors. This vision drove the partnership with NEAR University, ensuring an effective collaboration open to adaptation and adjustment based on learner needs. In addition, the strong partnership fostered between NEAR University and NEAR Hispano ensured an avenue for feedback and suggestions regarding course structure and content.
 
-## NEAR Hispano vs NEAR University Courses
+## 4.1 NEAR Hispano vs NEAR University Courses
 NEAR Hispano courses mirror those of NEAR University without noticeable technical differences; what sets them apart is their focus. From the start, NEAR Hispano understood that the focus should be on how the courses are delivered and not so much on changing their content. This meant developing an educational strategy that emphasized designing courses that facilitated an agile approach to course delivery.
 
 ### Course Delivery
@@ -176,7 +176,7 @@ NEAR Hispano uses learning paths to promote self-guided instruction, while keepi
 
 Taking the time to understand learner needs, allows instruction to be tailored and specific in a way that is engaging and motivating. Moreover, taking the time to know about a learner's needs builds a rapport, a sense of trust and most importantly the opportunity to reflect and adjust as needed. The end result is empowered learners able to adapt and apply the protocol in a meaningful way, and an instructor who becomes more effective in recognizing and adapting content based on learner needs.
 
-## Day Zero Challenge - From pre-work to work
+## 4.2 Day Zero Challenge - From pre-work to work
 As part of NEAR Hispano’s commitment to meet learners where they are at, meant adapting how students were introduced to the courses. NEAR University does an excellent job at creating and delivering content that allows participants to build their careers in Web3. Part of this means encouraging participants to also show their commitment by completing work on their own that is required to succeed in the different programs.
 
 This is where the “Day Zero Challenge” comes into play. It is educational material (i.e. videos, readings, etc.) that students must complete on their own before the courses begin. It is estimated that completing the Day Zero Challenge takes approximately 20 hours. This is a good way to provide students with the tools required to succeed in their certifications, but to also know who are those individuals that are really committed to start a career in Web3.
@@ -237,11 +237,9 @@ The number one rule to win people’s trust is to be honest and crystal clear ab
 While you need to make sure that you adapt your communication to the person in front of you, you also want to set clear expectations.You should be as detailed as possible in regards to  what the opportunities are, how funding works, and what they can expect once they finish the course.
 
 ## Final product
-<insert-an-infographic>
-- 1 NEAR Certified Instructor (!!) trained 300 students (10 instructors could have trained 3000 students)
-- 7 team members
-- 9 month into this business (started 9 month ago)
-- Over 600 students enrolled to the course
-- Over 100 developers got certified (NCD)
-- 8 certified teams received a grant ( 3 on NEAR Mainnet, 5 in development)
-- Over 250k USD received in grants from NEAR Foundation in total over 9 months
+![developer-profile-infographic.png](/content/assets/developer-profile-infographic.png)
+![teacher-profile-infographic.png](/content/assets/teacher-profile-infographic.png)
+![instructor-profile-infographic.png](/content/assets/instructor-profile-infographic.png)
+
+## Fact and figures
+![facts-and-figures-infographic.png](/content/assets/facts-and-figures-infographic.png)

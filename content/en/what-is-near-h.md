@@ -4,6 +4,8 @@
 
 ## NEAR Hispano Mission and Vision
 
+![https://www.youtube.com/watch?v=3Tp2PgZzMEw](https://www.youtube.com/watch?v=3Tp2PgZzMEw)
+
 NEAR Hispano is a regional hub that provides education and mentorship to local entrepreneurs,  developers, and educators in Spanish speaking communities. By providing guidance in the local language, NEAR Hispano is able to open up new opportunities for economic development and innovation in communities with high human capital potential.
 
 NEAR Hispano’s leader, [Claudio Cossio](https://medium.com/@ows-team/humans-of-the-open-web-sandbox-claudio-cossio-the-rise-of-a-pionear-guild-leader-67c7b314cc18), is a Mexican entrepreneur who has experienced first-hand the benefits of Web3 and the potential of the NEAR blockchain. Claudio has launched [Metapool](https://metapool.app/), one of the most successful and profitable dApps on the NEAR ecosystem. Having such great success and being aware of the life changing opportunities that the NEAR Protocol offers, Claudio dedicated his efforts to help more people get access to it as well. By setting up a team of entrepreneurs, developers, and educators from Latin American Countries (LATAM) that share the same objectives, Claudio was able to create a thriving educational business.

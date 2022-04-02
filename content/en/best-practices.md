@@ -21,6 +21,8 @@ It is your job as an entrepreneur to determine what your organizational values a
 
 Today everyone in NEAR Hispano is extremely proud of their community being empathetic. NEAR Hispano's business case clearly demonstrated that it could not succeed in building an educational community in such a niche industry as crypto without understanding, and truly recognizing the problems people have specifically in their region. Because crypto is  a field that is still ridden by prejudices, you need to know what students' circumstances are.  Whether it is a lack of technological savviness or a fear to get scammed, or anything else, you need to care about it as if it is your own struggle. Essentially, you need empathy.  As Manuel says:
 
+![https://www.youtube.com/watch?v=3Tp2PgZzMEw](https://www.youtube.com/watch?v=3Tp2PgZzMEw)
+
 > “The things that we at NEAR Hispano work on are based on seeking empathy and attracting everyone to get involved in NEAR Hispano and work voluntarily, but looking for a benefit.
 And I'm not talking about economic benefits, I'm talking about professional, technical, and personal gain. So it is about looking for that empathy in NEAR Hispano”
 
@@ -53,6 +55,8 @@ There are many like-minded people that might be trying to achieve the same goal 
 ## 4. Lay the Foundation of Your Initiative with People You Trust
 Many entrepreneurs wonder where to find their dream team when starting their journey. Essentially, you can find your team everywhere. You can meet people in the most random places but you can also start with those nearest and dearest to you. Your friends and family. A crucial privilege that you gain by starting your journey with them is trust. Having someone you can trust and confide in their capabilities and commitment can be incredibly helpful in the first stages of your project. When you can rely on your team members, the workflow can run more smoothly, and precious time and resources can be saved. Responsibilities can be delegated and team members can run their tasks independently without the need of being double-checked.
 
+![https://www.youtube.com/watch?v=bSfhHUOhKEM](https://www.youtube.com/watch?v=bSfhHUOhKEM)
+
 > “I am the one who kickstarted everything but I need to give props where props are due - Cristian and Alan. Also Manuel. They were the ones pushing the limits on how you can engage people and they already had  a very good network of teachers, researchers. And for me just enabling these connections to happen…At the end, it is all a bet that the team is going to execute on the technology and the roadmap.”
 >
 > Claudio
@@ -61,6 +65,9 @@ Many entrepreneurs wonder where to find their dream team when starting their jou
 
 
 ## 5. Offer Something That the Community Wants
+
+![https://www.youtube.com/watch?v=R9yx_4BTtzA](https://www.youtube.com/watch?v=R9yx_4BTtzA)
+
 People are driven by different motivations and shaped by their background and experiences. In order to make your program as inclusive and attractive as possible, it is then fundamental to keep this in mind and try to meet people where they are at. Pay attention to the context in which you are going to start your educational program and ask yourself the following questions: How can my initiative bring value to this community? What might prevent people from enrolling into this course? What do people need in order to feel motivated enough to participate?
 Answering these questions will enable you to adjust your approach based on the circumstances and make your program more appealing. Understanding where people are coming from, their needs, their values, their ambitions, will allow you to effectively communicate to your target audience how your training program is going to help them achieve their goals.
 
@@ -68,6 +75,8 @@ Answering these questions will enable you to adjust your approach based on the c
 When you are trying to attract people to Web3, having different entry points is essential. Newcomers might have very diverse backgrounds and experiences;  making sure that there are different educational paths that they can undertake will make your initiative more attractive and therefore effective.
 
 The courses created by NEAR Hispano are made to have a broad appeal and to introduce people into the different opportunities that the NEAR ecosystem offers. The idea behind this approach is that people are going to be more motivated to complete the course if they can choose the path that fits best with their background,  interests and ambition:
+
+![https://www.youtube.com/watch?v=LP2rnY7Cbk0](https://www.youtube.com/watch?v=LP2rnY7Cbk0)
 
 > “For example, if the participant is a developer, we have the Near Certified Analyst in Spanish, where people enroll in the blockchain technologies in NEAR. In parallel to that we have the Near Certified Developers, where you can grow your development skills, and the NEAR Certified Professor program for those that would like to start teaching. Additionally, if you are a university professor you can bring NEAR technologies into the classroom.”
 >
@@ -78,6 +87,8 @@ Allowing people to learn about the NEAR ecosystem from the angle that is most in
 
 ## 7. Provide Mentorship
 Navigating Web3 presents many challenges for newcomers who have to grapple with learning new concepts in a continuously evolving and  fast-paced environment. Those unfamiliar with the space might easily feel overwhelmed by both the amount of information and the speed to which they travel. In such an environment, mentorship is crucial to ensure that newcomers do not feel discouraged. Being able to ask questions and talk about one's struggles keeps people on track with the program and gives them the confidence they need to cross the finish line.
+
+![https://www.youtube.com/watch?v=wTJ0zXy1Zho](https://www.youtube.com/watch?v=wTJ0zXy1Zho)
 
 > “You are not left alone. You do not do the course alone, but there is feedback. This is what we propose in this accompaniment process.”
 >
@@ -105,13 +116,16 @@ Essentially, you have to test out and collect feedback all the time. Analyze and
 ## 9. Learn to Accept Failure and Try Out Different Routes
 The truth is that despite our effort to share best practices with you here, the NEAR Hispano success formula won't work everywhere. That is also the beauty of it: it is okay not to have answers to everything in Web3.  As mentioned earlier, nobody in fact knows what they are doing in this space. The only requirement is a builder mindset - do you see something that could be better? Then go ahead and build it.
 
+![https://www.youtube.com/watch?v=4cMFc8rICuc](https://www.youtube.com/watch?v=4cMFc8rICuc)
+
 > “I think that NEAR Hispano would not work the same in another place. I don't know if it will work somewhere, but if what we have done here is helpful I think that we hope they replicate, use what we have made for you.”
 >
 > Alan
 
 Do not be scared to try things out and make mistakes. According to Claudio, NEAR Hispano missed a couple of points  along the road as well.
-
 That is why we need to test, experiment and dare to take risks without too much self-reproach.
+
+![https://www.youtube.com/watch?v=EWqcIB7vmJI](https://www.youtube.com/watch?v=EWqcIB7vmJI)
 
 > “I think we hammer ourselves too much when things don't work, when somebody just takes advantage of us or is a bad actor. I reckon we need to take a step back and understand what it is that this person or organization brought in learning to us.. Grab that learning, do not take the bad because I know it hurts. I know it frustrates, I know it angers but that doesn't build any momentum. Take a step back, learn and go back, and go back on the horse again, right. And I reckon that's gonna be the name of the game. How many times can we get on the ground, dust ourselves off and go back at it again and can every interaction be a learning experience, and that's about it. Take it with a grain of salt.”
 >
@@ -134,6 +148,8 @@ Throughout this guide, we have shared the results of our analysis of the NEAR Hi
 
 Different experiences and backgrounds breed different values and needs. Being sensitive to differences will enable you to come up with specific solutions to encourage people to take part in your training program, and ultimately, to succeed.
 
+![https://www.youtube.com/watch?v=77i9OGwSYv8](https://www.youtube.com/watch?v=77i9OGwSYv8)
+
 > “I'm sure the NEAR Hispano formula won't work everywhere. I am very sure that if we applied the steps that have been done in Hispanic countries to Asian countries and replicated both things at the same time, in some places, it would most likely not have worked, and in the other, it would have gone very well, because everyone has its context. ”
 >
 > Alan
@@ -145,8 +161,4 @@ Different experiences and backgrounds breed different values and needs. Being se
 Turning your educational business into a thriving and expanding business will largely depend on your ability to understand the context you are operating in, and your capacity to tailor strategies around it. While this guide serves as a source of insights, practical guidance, and perhaps inspiration, it is your own creativity and judgment that will make these principles come to life and evolve with experience.
 
 # Final Words
-Our team truly hopes you find these materials useful and that they will help you build your own educational business together with NEAR.
-
-If after reading these you have questions, feedback or any feelings to share please reach out to us. We will be happy to meet you, Web3 entrepreneurs!
-
-Good luck!
+We have done our best to make this guide handy for you. Should you have any further questions or if you need help implementing your regional business on NEAR, do not hesitate to reach out to us!

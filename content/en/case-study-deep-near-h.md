@@ -6,6 +6,8 @@ In this section, we provide a thorough overview of NEAR Hispano’s first steps,
 
 # 1. Coming Up with a Business Model
 
+![https://www.youtube.com/watch?v=Of3U3lL1u2A](https://www.youtube.com/watch?v=Of3U3lL1u2A)
+
 A business model is critical to the success of any organization. It helps understand  the steps, processes and decisions that are made to generate, deliver, and create value. While this is usually associated with monetary value, it can also relate to social, cultural and other contexts based on the nature of the enterprise. NEAR Hispano is no exception. Through interaction and input from its community, NEAR Hispano developed a business model that can be replicated and adopted by others.
 
 ## The product:
@@ -75,11 +77,17 @@ NEAR Hispano focuses on creating real use cases that demonstrate its value and j
 # 3. Team Building
 
 ## Begin with a Core Group of Like-Minded Individuals
+
+![https://www.youtube.com/watch?v=sjku9ZughWQ](https://www.youtube.com/watch?v=sjku9ZughWQ)
+
 Building an effective and cohesive team can be daunting, especially when various skill sets need to be defined and rolled out prior to engaging in a new project. Moreover, given knowledge gaps and individual scheduling/availability, the job of creating a team can seem exponentially more difficult. NEAR Hispano is a testament to the fact that building a team under these circumstances, although challenging, is not an insurmountable task. It is best achieved through shared passion and community engagement.
 
 As the founder of NEAR Hispano, Claudio Cossio was very resourceful in establishing his own team. In the initial phase of his recruitment process, Claudio used his existing network to seek feedback and gauge interest. This approach ensured Claudio was able to reach out to other Spanish speakers in the community with whom he had rapport and common interests.  He established a [NEAR Hispano core group]() with a shared vision (Rosa Maria Orellana, Alejandro Van Beta , Manuel Haro, Juan Manuel Cancino, Rodrigo Moreno, Claudio Cossio, and shortly thereafter Cristian Zambrano, Luz Margarita Saucedo and Christopher Alan Estrada). Claudio believed that a collaborative spirit and the humility to recognize knowledge gaps would enable his team to succeed in outreach and “connect the dots.”
 
 ## Use Community Networks to Strengthen and Diversify Talent: Connecting the Dots
+
+![https://www.youtube.com/watch?v=4CTcm16olME](https://www.youtube.com/watch?v=4CTcm16olME)
+
 As a way of “connecting dots,” Claudio and his team began outreach through their respective networks, connecting with people who had experience in the Web3 industry. This grassroots approach depended on word of mouth and community relationships to build membership. It ensured Claudio’s intent of shared vision and passion. It brought together people in the community with skill sets that strengthen the overall team, adding depth, knowledge, perspective and experience to an already solid foundation.
 
 ## Lean into Community and Engage in Reciprocal Collaboration
@@ -196,7 +204,7 @@ As each participant completes their projects, they in turn will become facilitat
 
 This approach allows students to become trainers capable of customizing and delivering course content to other learners in a specialized manner reflective of NEAR Hispano methodologies. This approach also maintains a growth of qualified instructors, from diverse skill sets and backgrounds, capable of delivering course content within the NEAR Hispano framework.
 
-## Getting Started
+# 5. Getting Started
 After the design of NEAR Hispano’s business model, the drafting of funding application, and course development, the first challenge encountered by the team was how to reach people, and communicate the value of their offer:
 
 > “One thing is to develop and run courses, and the other is to find individuals to sell these courses to. Day 0 is critical, and is the most challenging moment because you have to figure out how to attract people to your program and motivate them to participate.”
@@ -212,6 +220,9 @@ Finding a unique selling proposition (USP) requires a deep understanding of both
 Creating the first batch of NEAR educators is essential for sustaining your educational program. Without more educators joining your project will not be able to scale and reach full potential. As there is no right formula for attracting motivated individuals to your business, you might have to try out different strategies before finding the right one. After months since inception, NEAR Hispano is still adjusting its strategies for obtaining even better results, paying particular attention to its outreach campaigns and events.
 
 ## Conducting Effective Outreach Campaigns
+
+![https://www.youtube.com/watch?v=UgRhTxbKUP0](https://www.youtube.com/watch?v=UgRhTxbKUP0)
+
 NEAR Hispano conducts strategic outreach campaigns in order to promote its courses. In this section, we provide an overview of the considerations that inform their approach and strategies. In particular, we focus on putting forward concrete advice whose value can be transferred onto your business.
 
 ## Tailor Your Strategy to Your Target
@@ -237,6 +248,8 @@ The number one rule to win people’s trust is to be honest and crystal clear ab
 While you need to make sure that you adapt your communication to the person in front of you, you also want to set clear expectations.You should be as detailed as possible in regards to  what the opportunities are, how funding works, and what they can expect once they finish the course.
 
 ## Final product
+![https://www.youtube.com/watch?v=8xq5LSJxfoc](https://www.youtube.com/watch?v=8xq5LSJxfoc)
+
 ![developer-profile-infographic.png](/content/assets/developer-profile-infographic.png)
 ![teacher-profile-infographic.png](/content/assets/teacher-profile-infographic.png)
 ![instructor-profile-infographic.png](/content/assets/instructor-profile-infographic.png)

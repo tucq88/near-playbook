@@ -1332,8 +1332,9 @@
 							&&	!item.leave)
 								return true;
 	
-						// Not visible? Bail.
-							if (item.triggerElement.offsetParent === null)
+						// No trigger element, or not visible? Bail.
+							if (!item.triggerElement
+							||	item.triggerElement.offsetParent === null)
 								return true;
 	
 						// Get element position.
